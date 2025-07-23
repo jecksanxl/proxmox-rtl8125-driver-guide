@@ -13,7 +13,7 @@
 2.  Завантажте цей репозиторій на сервер:
     ```bash
     apt update && apt install -y git
-    git clone [https://github.com/jecksanxxl/proxmox-rtl8125-driver-guide.git](https://github.com/jecksanxxl/proxmox-rtl8125-driver-guide.git)
+    git clone [https://github.com/jecksanxl/proxmox-rtl8125-driver-guide.git](https://github.com/jecksanxl/proxmox-rtl8125-driver-guide.git)
     ```
 3.  Перейдіть до папки та запустіть скрипт установки:
     ```bash
